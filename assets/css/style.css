@@ -66,6 +66,7 @@ body {
     background-position: center;
     position: relative;
 }
+/* Hero Style End */
 .hero-form {
     border:3px solid #024e76;
     background-color: #fce138;
@@ -117,23 +118,6 @@ body {
     text-align: center;
     background: #fce138;
 }
-.section-title{
-    font-size: 55 px;
-    color: #024e76;
-    margin-bottom: 35 px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
-}
-
-.primary-border {
-    border-color: #fce138;
-}
-
-.secondary-border {
-    border-color: #39a6b2;
-}
-
 .steps div{
     margin-bottom: 80px;
 }
@@ -155,6 +139,22 @@ body {
 }
 .steps span {
     font-size: 38px;
+}
+.section-title{
+    font-size: 55 px;
+    color: #024e76;
+    margin-bottom: 35 px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
 }
 .trainers {
     text-align: center;
