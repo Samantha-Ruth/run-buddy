@@ -15,7 +15,8 @@
 }
 .secondary-content {
     width: 80%;
-    margin: 0 auto
+    margin: 0 auto;
+    color: #024e76;
 }
 .secondary-content article {
     color: 024e76;
