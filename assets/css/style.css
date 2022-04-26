@@ -313,7 +313,7 @@ body {
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
     header h1 {
-        /* this will be applied on any screen smalle rthan 575 px */
+        /* this will be applied on any screen smaller than 575 px */
         font-size: 100px;
     }
 }
